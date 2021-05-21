@@ -1,0 +1,8 @@
+TODO:
+- cell 4: recipes/foodclasses.txt aanvullen met onze top ingredienten gebruikt in de fridge foto's
+- cell 19: optioneel: wines/wineclasses_filled.txt verder aanvullen
+- feature engineered WINE dataset opslaan
+- feature engineered RECIPE dataset opslaan
+
+
+

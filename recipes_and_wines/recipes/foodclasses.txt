@@ -1,0 +1,21 @@
+foodclass,food
+vegetables,carrot
+vegetables,letuce
+roasted vegetables,onion
+roasted vegetables,mushroom
+soft cheese,brie
+soft cheese,camembert    
+hard cheese,comte
+hard cheese,pecorino        
+fish,sprout
+fish,tuna
+shellfish,lobster
+shellfish,clams
+white meat,chicken
+white meat,turkey    
+red meat,beef
+red meat,pork    
+cured meat,salami
+cured meat,bacon        
+sweets,pie
+sweets,cake                

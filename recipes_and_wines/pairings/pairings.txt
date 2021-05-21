@@ -1,0 +1,32 @@
+foodclass,wineclass
+vegetables,dry white
+vegetables,sparkling
+roasted vegetables,dry white
+roasted vegetables,light red
+roasted vegetables,medium red
+soft cheese,sweet white
+soft cheese,rich white
+soft cheese,sparkling
+soft cheese,dessert    
+hard cheese,sweet white
+hard cheese,sparkling
+hard cheese,medium red
+hard cheese,bold red        
+fish,dry white
+fish,rich white
+fish,sparkling
+shellfish,dry white
+shellfish,light red
+shellfish,medium red
+white meat,rich white
+white meat,light red
+white meat,medium red    
+red meat,medium red
+red meat,bold red    
+cured meat,sweet white
+cured meat,light red
+cured meat,medium red
+cured meat,bold red
+cured meat,dessert        
+sweets,sweet white
+sweets,dessert      
