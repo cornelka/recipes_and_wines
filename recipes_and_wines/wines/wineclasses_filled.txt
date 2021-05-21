@@ -1,0 +1,74 @@
+wineclass,variety
+dessert,late harvest
+dessert,ice wine
+dessert,sherry
+dessert,port
+dry white,white table wine
+dry white,sauvignon blanc
+dry white,grüner veltliner
+dry white,pinot grigio
+dry white,albariño
+sweet white,gewürztraminer
+sweet white,müller-thurgau
+sweet white,malvasia
+sweet white,moscato
+sweet white,riesling
+rich white,chardonnay
+rich white,roussanne
+rich white,marsanne
+rich white,viognier
+sparkling,sparkling wine
+sparkling,champagne
+sparkling,prosecco
+sparkling,cava
+light red,st. laurent
+light red,pinot noir
+light red,zweigelt
+light red,gamay
+medium red,red table wine
+medium red,tempranillo
+medium red,sangiovese
+medium red,zinfandel
+medium red,grenache
+medium red,merlot
+bold red,cabernet sauvignon
+bold red,monastrell
+bold red,aglianico
+bold red,malbec
+bold red,syrah
+medium red,red blend
+medium red,bordeaux_style red blend
+light red,rosé
+medium red,nebbiolo
+bold red,portuguese red
+rich white,white blend
+sparkling,sparkling blend
+bold red,rhône_style red blend
+dry white,pinot gris
+sparkling,champagne blend
+medium red,cabernet franc
+dry white,portuguese white
+dry white,bordeaux_style white blend
+bold red,shiraz
+bold red,petite sirah
+bold red,sangiovese grosso
+bold red,barbera
+sparkling,glera
+bold red,corvina
+bold red,rondinella
+bold red,molinara
+dry white,chenin blanc
+medium red,tempranillo blend
+medium red,carmenère
+dry white,pinot blanc
+rich white,rhône_style white blend
+light red,nero d'avola
+medium red,garnacha
+light red,pinot nero
+dry white,pinot bianco
+sparkling,portuguese sparkling
+medium red,garnacha blend
+medium red,grenache blend
+sweet white,white riesling
+light red,rosato
+

@@ -1,0 +1,40 @@
+wineclass,variety
+dessert,late harvest
+dessert,ice wine
+dessert,sherry
+dessert,port
+dry white,white table wine
+dry white,sauvignon blanc
+dry white,grüner veltiner
+dry white,pinot grigio
+dry white,albariño
+sweet white,gewürztraminer
+sweet white,müller-thurgau
+sweet white,malvasia
+sweet white,moscato
+sweet white,riesling
+rich white,chardonnay
+rich white,roussanne
+rich white,marsanne
+rich white,viognier
+sparkling,sparkling wine
+sparkling,champagne
+sparkling,prosecco
+sparkling,cava
+light red,st. laurent
+light red,pinot noir
+light red,zweigelt
+light red,gamay
+medium red,red table wine
+medium red,tempranillo
+medium red,sangiovese
+medium red,zinfandel
+medium red,grenache
+medium red,merlot
+bold red,cabernet sauvignon
+bold red,monastrell
+bold red,aglianico
+bold red,malbec
+bold red,syrah
+
+
